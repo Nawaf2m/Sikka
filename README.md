@@ -460,7 +460,7 @@ The backend currently declares **170 REST endpoints across 22 controllers** on t
 
 **Full API reference:** [API Documentation — 170 routes across 22 controllers](docs/API-DOCUMENTATION.md).
 
-**Project links:** [SIKKA website](https://sikka.up.railway.app/#home) · [Backend (SIKKA-final)](https://github.com/Abdulaziz-Shafae/SIKKA-final).
+**Project links:** [SIKKA website](https://sikka.up.railway.app/#home) · [Backend (SIKKA-final)](https://github.com/Nawaf2m/SIKKA).
 
 
 ## Data Model
