@@ -1,4 +1,3 @@
-[README_Nawaf.md](https://github.com/user-attachments/files/34115950/README_Nawaf.md)
 <div align="center">
 
 <img src="docs/sikka-logo.png" alt="SIKKA logo" width="200" />
